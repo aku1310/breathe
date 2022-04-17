@@ -6,27 +6,27 @@ Breathe gives the user a platform where they can seek help anonymously, get vali
 
 ## Tech Stack Used
 
-HTML
-CSS
-React.js
+HTML<br/>
+CSS<br/>
+React.js<br/>
 
 ## Team Description
 
-Team Member Name: Vishrut Aggarwal
-Team Member GitHub: https://github.com/VishrutAggarwal
-Team Member Socials: [Linkedin](https://www.linkedin.com/in/vishrut-aggarwal/)
+Team Member Name: Vishrut Aggarwal<br/>
+Team Member GitHub: https://github.com/VishrutAggarwal<br/>
+Team Member Socials: [Linkedin](https://www.linkedin.com/in/vishrut-aggarwal/)<br/><br/>
 
-Team Member Name: Akanksha Kushwaha
-Team Member GitHub: https://github.com/aku1310
-Team Member Socials: [Linkedin](https://www.linkedin.com/in/akankshakushwaha/)
+Team Member Name: Akanksha Kushwaha<br/>
+Team Member GitHub: https://github.com/aku1310<br/>
+Team Member Socials: [Linkedin](https://www.linkedin.com/in/akankshakushwaha/)<br/><br/>
 
-Team Member Name: Jahanvi Joshi
-Team Member GitHub: https://github.com/jahanvi15
-Team Member Socials: [Linkedin](https://www.linkedin.com/in/jahanvi-joshi-6645471b5/)
+Team Member Name: Jahanvi Joshi<br/>
+Team Member GitHub: https://github.com/jahanvi15<br/>
+Team Member Socials: [Linkedin](https://www.linkedin.com/in/jahanvi-joshi-6645471b5/)<br/><br/>
 
-Team Member Name: Siddhant Vats
-Team Member GitHub: https://github.com/siddhantvats05
-Team Member Socials: [Linkedin](https://www.linkedin.com/in/siddhant-vats/)
+Team Member Name: Siddhant Vats<br/>
+Team Member GitHub: https://github.com/siddhantvats05<br/>
+Team Member Socials: [Linkedin](https://www.linkedin.com/in/siddhant-vats/)<br/><br/>
 
 
 ## Screenshots and reference Images
