@@ -6,9 +6,12 @@ Breathe gives the user a platform where they can seek help anonymously, get vali
 
 ## Tech Stack Used
 
+Figma<br/>
 HTML<br/>
 CSS<br/>
+JavaScript<br/>
 React.js<br/>
+PHP<br/>
 
 ## Team Description
 
@@ -40,8 +43,8 @@ Team Member Socials: [Linkedin](https://www.linkedin.com/in/siddhant-vats/)<br/>
 
 ## Links and References: 
 
-- [Devfolio](your_devfolio_link_here)
+- [Devfolio](https://devfolio.co/projects/breathe-a-serene-adventure-30f2)
 
 - [GitHub](https://github.com/aku1310/breathe)
 
-- [Google Drive](your_demo_video_link_here)
+- [Google Drive](https://drive.google.com/drive/folders/1UjoGZZc-LEj57IFiirZFxOcvCBdWoKiu?usp=sharing)
